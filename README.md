@@ -235,5 +235,15 @@ Key areas covered in the analysis include:
 4. **Microsoft Excel or any SQL-compatible database**: Can be used as an alternative environment to run SQL queries.
 5. **GitHub**: For version control and sharing the project with others.
 
+## Copyright Notice
 
+This dataset was sourced from Kaggle, but the analysis and insights presented in this repository are the result of my own work. 
+
+- **Dataset Source**: [Heart Attack Data (Kaggle)](https://www.kaggle.com/datasets/sashavir/heart-attack-analysis-prediction-dataset)
+- **Analysis and Insights**: Copyright (c) 2025 [Salahuddin Ahmed]
+
+Please do not use this analysis without proper attribution to the author. The analysis cannot be claimed as your own.
+ [Kaggle Heart Attack Dataset]() and is licensed under the MIT License.
+
+The dataset and associated code are released under the MIT License.
 
