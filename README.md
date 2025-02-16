@@ -1,3 +1,6 @@
+This project focuses on analyzing heart attack rates in Germany using a dataset with multiple variables such as BMI, alcohol consumption, cholesterol levels, air pollution index, and various demographic factors. The goal is to identify trends and patterns related to heart attack rates across different regions, age groups, genders, and other factors. The analysis is performed using SQL queries to retrieve descriptive statistics, handle missing values, and analyze trends over time.
+
+
 # heart-attack-analysis-germany
 
 -- Checking the records
